@@ -20,5 +20,4 @@ fun main() {
     processRequest(loading)
     processRequest(success)
     processRequest(failure)
-
 }
